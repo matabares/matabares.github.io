@@ -1,5 +1,7 @@
 ## Welcome to Mauricio Tabares page
 
+Here you will be found some useful tips and tricks related with programming
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
