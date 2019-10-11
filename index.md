@@ -2,7 +2,7 @@
 
 Here you will be found some useful tips and tricks related with programming.
 
-# How to load a google spreadsheet into Jupyter
+# How to load a google spreadsheet into pandas dataframe
 
 If you want to load a worksheet, you need to use following code:
 
